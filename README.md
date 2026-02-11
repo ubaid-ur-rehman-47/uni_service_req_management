@@ -32,7 +32,7 @@ A production-ready backend API for managing university service requests with JWT
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone ubaid-ur-rehman-47/uni_service_req_management
 cd uni_service_req_management
 ```
 
